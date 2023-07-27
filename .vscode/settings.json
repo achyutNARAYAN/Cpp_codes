@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "limits": "cpp",
+        "xstring": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
